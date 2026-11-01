@@ -1,0 +1,7 @@
+field,category,record_count,percentage_of_dataset
+freight cost (usd),Cross-record reference,2445,23.68
+freight cost (usd),Numeric,6198,60.03
+freight cost (usd),Other explanatory or nonnumeric text,1681,16.28
+weight (kilograms),Cross-record reference,2445,23.68
+weight (kilograms),Numeric,6372,61.72
+weight (kilograms),Other explanatory or nonnumeric text,1507,14.6

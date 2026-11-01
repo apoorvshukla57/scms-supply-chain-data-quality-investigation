@@ -1,0 +1,2 @@
+source_records,comparable_records,noncomparable_records,original_exceptions_over_002,exceptions_matching_after_rounding_exactly,exceptions_matching_after_rounding_within_002,remaining_exceptions_after_rounding,share_resolved_within_tolerance_pct
+10324,10324,0,7774,0,90,7684,1.16

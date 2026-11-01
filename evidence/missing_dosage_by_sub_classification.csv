@@ -1,0 +1,7 @@
+sub classification,total_records,missing_dosage,missing_percentage
+HIV test,1567,1567,100.0
+HIV test - Ancillary,161,161,100.0
+Malaria,30,8,26.666666666666668
+Adult,6595,0,0.0
+Pediatric,1955,0,0.0
+ACT,16,0,0.0

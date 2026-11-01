@@ -1,0 +1,26 @@
+date_field,classification,record_count,percentage,total_records
+pq first sent to client date,Valid date,7643,74.03,10324
+pq first sent to client date,Missing/blank,0,0.0,10324
+pq first sent to client date,Explicitly unavailable,205,1.99,10324
+pq first sent to client date,Recognized workflow status,2476,23.98,10324
+pq first sent to client date,Other unparseable text,0,0.0,10324
+po sent to vendor date,Valid date,4592,44.48,10324
+po sent to vendor date,Missing/blank,0,0.0,10324
+po sent to vendor date,Explicitly unavailable,328,3.18,10324
+po sent to vendor date,Recognized workflow status,5404,52.34,10324
+po sent to vendor date,Other unparseable text,0,0.0,10324
+scheduled delivery date,Valid date,10324,100.0,10324
+scheduled delivery date,Missing/blank,0,0.0,10324
+scheduled delivery date,Explicitly unavailable,0,0.0,10324
+scheduled delivery date,Recognized workflow status,0,0.0,10324
+scheduled delivery date,Other unparseable text,0,0.0,10324
+delivered to client date,Valid date,10324,100.0,10324
+delivered to client date,Missing/blank,0,0.0,10324
+delivered to client date,Explicitly unavailable,0,0.0,10324
+delivered to client date,Recognized workflow status,0,0.0,10324
+delivered to client date,Other unparseable text,0,0.0,10324
+delivery recorded date,Valid date,10324,100.0,10324
+delivery recorded date,Missing/blank,0,0.0,10324
+delivery recorded date,Explicitly unavailable,0,0.0,10324
+delivery recorded date,Recognized workflow status,0,0.0,10324
+delivery recorded date,Other unparseable text,0,0.0,10324

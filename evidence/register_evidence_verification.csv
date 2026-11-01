@@ -1,0 +1,19 @@
+﻿finding,metric,previous_result,source_result,status
+DQ-01,Missing dosage,1736,1736,MATCH
+DQ-02,PQ date: Pre-PQ Process,2476,2476,MATCH
+DQ-02,PO date: N/A - From RDC,5404,5404,MATCH
+DQ-03,Price differences greater than $0.02,7774,7774,MATCH
+DQ-04,Zero unit prices,103,103,MATCH
+DQ-05,Candidate duplicate groups,4,4,MATCH
+DQ-05,Candidate duplicate records,8,8,MATCH
+DQ-05,Candidate group membership matches evidence,True,True,MATCH
+DQ-05,Matching non-ID fields per candidate group,True,True,MATCH
+DQ-06,Numeric weight records,6372,6372,MATCH
+DQ-06,Numeric freight records,6198,6198,MATCH
+DQ-07,Total cross-record reference occurrences,4890,4890,MATCH
+DQ-07,Reference occurrences: weight (kilograms),2445,2445,MATCH
+DQ-07,Reference occurrences: freight cost (usd),2445,2445,MATCH
+DQ-07,Unique source records with references,2445,2445,MATCH
+DQ-07,Unique referenced target IDs,1299,1299,MATCH
+DQ-07,Source reference details match published evidence,True,True,MATCH
+DQ-08,Missing line-item insurance,287,287,MATCH

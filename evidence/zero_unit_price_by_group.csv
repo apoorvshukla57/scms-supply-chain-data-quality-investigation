@@ -1,0 +1,6 @@
+product group,total_records,zero_unit_price_records,distinct_countries,distinct_vendors,zero_unit_price_pct
+ACT,16,0,2,3,0.0
+ANTM,22,0,6,6,0.0
+ARV,8550,32,33,35,0.37
+HRDT,1728,71,33,30,4.11
+MRDT,8,0,2,4,0.0

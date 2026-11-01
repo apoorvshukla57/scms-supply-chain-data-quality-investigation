@@ -1,0 +1,7 @@
+field,classification,record_count,percentage_of_dataset
+weight (kilograms),Numeric,6372,61.72
+weight (kilograms),Blank,0,0.0
+weight (kilograms),Nonnumeric text,3952,38.28
+freight cost (usd),Numeric,6198,60.03
+freight cost (usd),Blank,0,0.0
+freight cost (usd),Nonnumeric text,4126,39.97

@@ -1,0 +1,32 @@
+product group,item description,total_records,zero_unit_price_records,distinct_vendors,distinct_countries,zero_unit_price_pct,positive_price_records,minimum_positive_unit_price,median_positive_unit_price,maximum_positive_unit_price,positive_price_vendors
+HRDT,"HIV, Lancet, Safety, for HIV Test kits, 100 Pcs",65,58,2,16,89.23,7.0,0.05,0.05,0.05,2.0
+HRDT,"HIV 1/2, Determine Complete HIV Kit, 100 Tests",577,8,9,29,1.39,569.0,0.72,0.8,1.5,9.0
+ARV,"Lopinavir/Ritonavir 80/20mg/ml [Kaletra], oral solution, cool, Bottle 5 x 60 ml",157,4,7,16,2.55,153.0,0.05,0.1,0.27,7.0
+ARV,"Abacavir 300mg, tablets, 60 Tabs",287,2,7,20,0.7,285.0,0.18,0.25,1.29,7.0
+ARV,"Tenofovir Disoproxil Fumarate 300mg [Viread], tablets, 30 Tabs",52,2,7,9,3.85,50.0,0.57,0.57,0.96,7.0
+ARV,"Didanosine 100mg, chewable/dispersible tablets, 60 Tabs",23,2,2,7,8.7,21.0,0.13,0.13,0.18,2.0
+ARV,"Abacavir 20mg/ml, [DON] oral solution, Bottle, 240 ml",2,2,1,2,100.0,,,,,
+HRDT,"HIV, Bioline HIV 1/2 3.0 Kit, [DON] 25 Tests",2,2,1,1,100.0,,,,,
+ARV,"Efavirenz 600mg, tablets, 30 Tabs",755,1,10,25,0.13,754.0,0.1,0.15,0.66,10.0
+ARV,"Nevirapine 200mg, tablets, 60 Tabs",623,1,10,24,0.16,622.0,0.03,0.04,0.68,10.0
+ARV,"Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs",597,1,7,23,0.17,596.0,0.1,0.14,0.55,7.0
+ARV,"Lamivudine 150mg, tablets, 60 Tabs",378,1,9,18,0.26,377.0,0.03,0.04,0.17,9.0
+HRDT,"HIV 1/2, Uni-Gold HIV Kit, 20 Tests",369,1,3,23,0.27,368.0,1.6,1.6,2.75,3.0
+ARV,"Zidovudine 300mg, tablets, 60 Tabs",317,1,9,18,0.32,316.0,0.09,0.12,0.47,9.0
+ARV,"Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate 600/300/300mg, tablets, 30 Tabs",286,1,5,18,0.35,285.0,0.32,0.36,0.58,5.0
+ARV,"Tenofovir Disoproxil Fumarate 300mg, tablets, 30 Tabs",268,1,7,15,0.37,267.0,0.1,0.22,0.75,7.0
+ARV,"Efavirenz 200mg, capsule, 90 Caps",134,1,6,14,0.75,133.0,0.05,0.17,0.52,6.0
+ARV,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, dispersible tablets, 60 Tabs",126,1,4,12,0.79,125.0,0.06,0.06,0.07,4.0
+ARV,"Abacavir 20mg/ml, oral solution, Bottle, 240 ml",72,1,5,11,1.39,71.0,0.03,0.07,0.1,5.0
+ARV,"Zidovudine 10mg/ml, oral solution, Bottle, 240 ml",72,1,4,14,1.39,71.0,0.01,0.01,0.03,4.0
+ARV,"Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml",57,1,3,11,1.75,56.0,0.01,0.01,0.05,3.0
+ARV,"Saquinavir 200mg [Invirase], capsules, 270 Caps",43,1,4,6,2.33,42.0,0.2,0.29,0.38,4.0
+HRDT,"Chase Buffer, Determine, 100 Tests, 2.5ml x 1 Vial",40,1,3,7,2.5,39.0,5.0,5.0,7.51,2.0
+ARV,"Ritonavir 100mg [Norvir], capsules, cool, 4 x 84 Caps",39,1,2,8,2.56,38.0,0.02,0.11,0.91,2.0
+ARV,"Stavudine 15mg, capsules, 60 Caps",34,1,2,6,2.94,33.0,0.02,0.02,0.04,2.0
+ARV,"Efavirenz 30mg/ml [Stocrin/Sustiva], oral solution, Bottle, 180 ml",33,1,3,3,3.03,32.0,0.05,0.09,0.09,3.0
+ARV,"Stavudine 20mg, capsules, 60 Caps",26,1,2,7,3.85,25.0,0.02,0.03,0.03,2.0
+HRDT,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit, 30 Tests",15,1,2,4,6.67,14.0,0.55,0.7,0.78,2.0
+ARV,"Didanosine 200mg, [DON] delayed-release capsules, 30 Caps",1,1,1,1,100.0,,,,,
+ARV,"Lamivudine/Nevirapine/Zidovudine 30/50/60mg, [DON] dispersible tablets, 60 Tabs",1,1,1,1,100.0,,,,,
+ARV,"Lopinavir/Ritonavir 200/50mg, [DON] tablets, 120 Tabs",1,1,1,1,100.0,,,,,
